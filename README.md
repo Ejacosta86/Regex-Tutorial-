@@ -72,3 +72,5 @@ Usage/Examples for Email:
 
 ## Author
 This tutorial was created by Erica with resources provided, click link to view GitHub [repo](https://github.com/Ejacosta86/Regex-Tutorial-).
+
+[Link for GitHub Gist](https://gist.github.com/Ejacosta86/ad32f68532d01004421021de26073f8f).
